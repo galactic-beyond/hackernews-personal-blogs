@@ -5,6 +5,7 @@
 </head>
 <body>
 <outline title="HN Personal Blogs (After submission)" text="HN Personal Blogs (After submission)">
+    <outline type="rss" title="limpkin" text="limpkin" xmlUrl="https://www.limpkin.fr/index.php?feed/atom" htmlUrl="https://www.limpkin.fr/index.php?feed/atom"/>
     <outline type="rss" title="andrewnolandev" text="andrewnolandev" xmlUrl="https://andrewnolan.dev/rss.xml" htmlUrl="https://andrewnolan.dev/rss.xml"/>
     <outline type="rss" title="jitbit" text="jitbit" xmlUrl="https://www.jitbit.com/alexblog/rss/" htmlUrl="https://www.jitbit.com/alexblog/rss/"/>
     <outline type="rss" title="msephton" text="msephton" xmlUrl="https://blog.gingerbeardman.com/feed.xml" htmlUrl="https://blog.gingerbeardman.com/feed.xml"/>
